@@ -9,8 +9,7 @@
 * ABHISHEK JOSHI - abhishekmrunaljoshi@gmail.com
 
 ## Mentors
-* Gaurav Sharma
-* Yash Tailor
+
 
 ## Table of Contents
 
